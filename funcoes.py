@@ -17,12 +17,12 @@ def leiaInt(inteiro):
             break
 
 #Input da quantidade de senhas
-def quant_senhas(quant = 1):
+def quant_senhas():
     quant = leiaInt("Quantidade: ")
     return quant
 
 #Input do tamanho das senhas
-def tam_senhas(tam = 8):
+def tam_senhas():
     tam = leiaInt("Tamanho: ")
     return tam
 
