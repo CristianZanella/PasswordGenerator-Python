@@ -5,5 +5,3 @@ Gerador de senhas complexas (feito em Python). // Complex password generator (ma
 Aqui você pode ver o código rodando. // Here you can see the code running.
 
 ![PasswordGenerator-Python](https://user-images.githubusercontent.com/74058519/107789424-56613100-6d30-11eb-9321-f03bb44a72b5.png)
-
-Básicamente é isso. Espero que ajude =]. // That's basically it. I hope it helps =].
